@@ -1,4 +1,9 @@
 # 📊 Tech Layoff Intelligence Dashboard
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![SQL](https://img.shields.io/badge/Database-SQLite-lightgrey)
+![Framework](https://img.shields.io/badge/Framework-Streamlit-red)
+![Visualization](https://img.shields.io/badge/Visualization-Plotly-blueviolet)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 Analyze global tech layoffs across industries, countries, and time using data analytics, SQL, and interactive visualizations.
 
@@ -37,6 +42,12 @@ The goal is to extract meaningful insights about layoffs across industries, comp
 * 🏢 Industry-wise breakdown
 * 🌎 Country-level insights
 * 🧮 KPI metrics (total layoffs, companies affected)
+
+---
+
+## 🌐 Live Dashboard
+
+👉 https://tech-layoff-analysis.streamlit.app/
 
 ---
 
