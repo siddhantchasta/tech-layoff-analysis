@@ -97,7 +97,7 @@ requirements.txt
 ### 1. Clone the repository
 
 ```
-git clone <your-repo-link>
+git clone https://github.com/siddhantchasta/tech-layoff-analysis.git
 cd tech-layoff-analysis
 ```
 
